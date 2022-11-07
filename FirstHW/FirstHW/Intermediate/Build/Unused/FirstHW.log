@@ -1,0 +1,6 @@
+﻿  Building FirstHWEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 4 processes...
+    [1/1] FirstHWEditor.target
+  Total time in Parallel executor: 0,37 seconds
+  Total execution time: 1,17 seconds

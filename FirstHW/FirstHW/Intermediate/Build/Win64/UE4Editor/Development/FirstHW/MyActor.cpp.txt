@@ -1,0 +1,3 @@
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Intermediate\Build\Win64\UE4Editor\Development\FirstHW\Definitions.FirstHW.h
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Source\FirstHW\Public\MyActor.h
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Intermediate\Build\Win64\UE4Editor\Inc\FirstHW\MyActor.generated.h

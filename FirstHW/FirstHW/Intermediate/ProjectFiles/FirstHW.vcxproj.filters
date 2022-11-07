@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstHW.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{51F142CD-3BB0-4C47-A860-4EFCBA4A540E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstHW.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstHWEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{975F3B79-19B8-404B-B81D-550135784CEB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstHW">
+      <UniqueIdentifier>{948AEB9C-D455-4326-A925-292ECB67458A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstHW\FirstHW.Build.cs">
+      <Filter>Source\FirstHW</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstHW\FirstHW.cpp">
+      <Filter>Source\FirstHW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstHW\FirstHW.h">
+      <Filter>Source\FirstHW</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstHW\FirstHWCharacter.cpp">
+      <Filter>Source\FirstHW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstHW\FirstHWCharacter.h">
+      <Filter>Source\FirstHW</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstHW\FirstHWGameMode.cpp">
+      <Filter>Source\FirstHW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstHW\FirstHWGameMode.h">
+      <Filter>Source\FirstHW</Filter>
+    </ClInclude>
+    <Filter Include="Source\FirstHW\Private">
+      <UniqueIdentifier>{9326A353-8539-438C-BA16-30DB6BEF38CB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FirstHW\Private\ChangingColor.cpp">
+      <Filter>Source\FirstHW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FirstHW\Private\Disappearing.cpp">
+      <Filter>Source\FirstHW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FirstHW\Private\MyActor.cpp">
+      <Filter>Source\FirstHW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FirstHW\Private\MyGameModeBase.cpp">
+      <Filter>Source\FirstHW\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FirstHW\Public">
+      <UniqueIdentifier>{16698E65-C862-4B7A-9558-E8D8D68CD1F5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FirstHW\Public\ChangingColor.h">
+      <Filter>Source\FirstHW\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FirstHW\Public\Disappearing.h">
+      <Filter>Source\FirstHW\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FirstHW\Public\MyActor.h">
+      <Filter>Source\FirstHW\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FirstHW\Public\MyGameModeBase.h">
+      <Filter>Source\FirstHW\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

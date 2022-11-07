@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Intermediate\Build\Win64\UE4Editor\Development\FirstHW\Definitions.FirstHW.h
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Source\FirstHW\FirstHWGameMode.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Intermediate\Build\Win64\UE4Editor\Inc\FirstHW\FirstHWGameMode.generated.h
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Source\FirstHW\FirstHWCharacter.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+Y:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+Y:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Elizabeth\Desktop\FirstHW\FirstHW\Intermediate\Build\Win64\UE4Editor\Inc\FirstHW\FirstHWCharacter.generated.h

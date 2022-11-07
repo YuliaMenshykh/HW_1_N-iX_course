@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstHW",
+			"Path": "C:\\Users\\Elizabeth\\Desktop\\FirstHW\\FirstHW\\Source\\FirstHW.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstHWEditor",
+			"Path": "C:\\Users\\Elizabeth\\Desktop\\FirstHW\\FirstHW\\Source\\FirstHWEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
